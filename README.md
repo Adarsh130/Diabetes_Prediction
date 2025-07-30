@@ -2,7 +2,8 @@
 
 A modern and responsive web application that predicts whether a person is likely to have diabetes based on medical inputs. Built using **Flask**, **Logistic Regression**, and styled with **Bootstrap 5**.
 
-![Preview Screenshot](preview.png)
+![App Preview](assets/preview.png)
+
 
 ---
 
