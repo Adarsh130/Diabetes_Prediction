@@ -108,7 +108,7 @@ Then open [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 
 ## 🌐 Live Demo
 
-[🔗 Live App on Render/Railway (optional)](https://your-app-link.render.com)
+[🔗 Live App on Railway](https://diabetesprediction.up.railway.app/)
 
 ---
 
